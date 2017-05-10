@@ -1,0 +1,5 @@
+__pycache__
+app/model/*.pkl
+app/model/*.npy
+app/model/lsi/*.pkl
+app/model/lsi/*.npy
